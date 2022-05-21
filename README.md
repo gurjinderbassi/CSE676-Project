@@ -8,3 +8,7 @@ To run the above code, follow these steps:
 - Upload the dataset to Google Drive
 - Open the given .ipynb notebook in Google Colab
 - Run the cells
+
+
+### References
+- Tensorflow tutorial on transfer learning and fine tuning. https://www.tensorflow.org/guide/keras/transfer_learning
